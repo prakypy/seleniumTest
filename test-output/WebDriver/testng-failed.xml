@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [WebDriver]">
+  <test thread-count="5" name="Tests(failed)">
+    <classes>
+      <class name="TestNG.webphp">
+        <methods>
+          <include name="close"/>
+          <include name="verify"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- TestNG.webphp -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+</suite> <!-- Failed suite [WebDriver] -->

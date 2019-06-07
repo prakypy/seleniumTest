@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="4008" started-at="2019-06-07T12:21:01Z" finished-at="2019-06-07T12:21:05Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="4008" started-at="2019-06-07T12:21:01Z" finished-at="2019-06-07T12:21:05Z">
+      <class name="TestNG.App">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.App@d041cf]" name="launch" is-config="true" duration-ms="3235" started-at="2019-06-07T12:21:01Z" finished-at="2019-06-07T12:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:TestNG.App@d041cf]" name="verify" duration-ms="655" started-at="2019-06-07T12:21:04Z" finished-at="2019-06-07T12:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.App@d041cf]" name="close" is-config="true" duration-ms="102" started-at="2019-06-07T12:21:05Z" finished-at="2019-06-07T12:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.App -->
+    </test> <!-- Tests -->
+  </suite> <!-- WebDriver -->
+</testng-results>
